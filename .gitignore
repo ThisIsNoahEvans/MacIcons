@@ -1,0 +1,4 @@
+# macOS
+.DS_Store
+# File used to generate URLs
+*.xlsx
